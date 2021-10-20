@@ -1,0 +1,14 @@
+
+body{background: burlywood}
+ol {
+  background: #b3d4fc; color:#000; width:600px;    height:1200px; font-size: 20px; margin-bottom: 3px;
+}
+.target {
+  background: chartreuse; color: #222222; text-align: justify;
+}
+h3.target {background: #b3d4fc; text-align: center;
+}
+.point{ font-size: 25px}
+a{ text-decoration: none; color:black}
+a:hover{ color: red}
+
